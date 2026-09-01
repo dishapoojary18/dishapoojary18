@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there! 👋
 
 I'm Disha, a BCA student specializing in Artificial Intelligence & Machine Learning.
 
