@@ -20,7 +20,7 @@ I'm Disha, a BCA student specializing in Artificial Intelligence & Machine Learn
 
 I'm currently exploring AI, Generative AI, RAG and Agentic AI, while building projects across web development and intelligent applications. I'm still learning, experimenting, breaking things, and figuring out how to build better.
 
-Beyond coding, I'm passionate about technology communities and bringing people together. I lead Techno{M}inds, organize and host technical events, and have conducted hands-on sessions in areas like IoT and Arduino for students.
+Beyond coding, I'm passionate about technology communities and bringing people together. I lead Code Nexus student club, organize and host technical events, and have conducted hands-on sessions in areas like IoT and Arduino for students.
 
 I believe some of the best learning happens when you build something, share it, and help someone else build it too.
 
