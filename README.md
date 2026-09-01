@@ -26,4 +26,4 @@ Outside of code, I'm interested in creativity, technology communities, and explo
 
 ### Let's connect!
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/dishapoojary18)
+[LinkedIn](https://www.linkedin.com/in/disha-k-901802331/) · [GitHub](https://github.com/dishapoojary18)
