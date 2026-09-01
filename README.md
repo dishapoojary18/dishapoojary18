@@ -21,9 +21,6 @@ Here are some ideas to get you started:
 ### BCA (AI & ML) Student • Builder • Community Leader • AI Explorer
 
 <p>
-  <a href="https://github.com/dishapoojary18">
-    <img src="https://img.shields.io/badge/GitHub-dishapoojary18-181717?style=flat&logo=github" />
-  </a>
   <a href="https://www.linkedin.com/in/disha-k-901802331/">
     <img src="https://img.shields.io/badge/LinkedIn-Disha%20K-0A66C2?style=flat&logo=linkedin" />
   </a>
